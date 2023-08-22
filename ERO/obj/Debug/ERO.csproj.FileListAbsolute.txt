@@ -1,0 +1,1530 @@
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_8_3_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_70_9_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_4 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_1_5 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_2_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_3_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_4_4 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_5 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_6 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_5_7\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_6_x86 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_1 - Copy (2)\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_7_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_3_ero - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_4 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_71_8_5 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_2 - artNo\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_4 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5-20180917T074109Z-001\Sheetkit_72_3_5\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_72_3_5_ERO_DB_SHECVLAAA - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_4 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_5 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_2 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_3 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_1 - Copy\ERO\obj\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\ERO.dll.config
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\ERO.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\DataBase.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\Helpers.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\System.Data.SQLite.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\DataBase.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\Helpers.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\obj\Debug\ERO.csprojResolveAssemblyReference.cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\obj\Debug\ERO.Form1.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\obj\Debug\ERO.Properties.Resources.resources
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\obj\Debug\ERO.csproj.GenerateResource.Cache
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\obj\Debug\ERO.dll.licenses
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\obj\Debug\ERO.dll
+D:\!_C#\!_SheetKit\Sheetkit_400_1_1_4_2 - Copy\ERO\obj\Debug\ERO.pdb

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="docmaster" targetNamespace="http://tempuri.org/docmaster.xsd" xmlns:mstns="http://tempuri.org/docmaster.xsd" xmlns="http://tempuri.org/docmaster.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="docmasterConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="docmasterConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DataBase.Properties.Settings.GlobalReference.Default.docmasterConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Letters_for_06TableAdapter" GeneratorDataComponentClassName="Letters_for_06TableAdapter" Name="Letters_for_06" UserDataComponentName="Letters_for_06TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="docmasterConnectionString (Settings)" DbObjectName="docmaster.Letters_for_06" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        *
+FROM            Letters_for_06</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="FlowDirectionID" DataSetColumn="FlowDirectionID" />
+              <Mapping SourceColumn="direction" DataSetColumn="direction" />
+              <Mapping SourceColumn="BriefcaseID" DataSetColumn="BriefcaseID" />
+              <Mapping SourceColumn="DocumentTypeID" DataSetColumn="DocumentTypeID" />
+              <Mapping SourceColumn="type" DataSetColumn="type" />
+              <Mapping SourceColumn="CorrOrgID" DataSetColumn="CorrOrgID" />
+              <Mapping SourceColumn="name" DataSetColumn="name" />
+              <Mapping SourceColumn="full_name" DataSetColumn="full_name" />
+              <Mapping SourceColumn="DocumentStateID" DataSetColumn="DocumentStateID" />
+              <Mapping SourceColumn="state" DataSetColumn="state" />
+              <Mapping SourceColumn="IssueDate" DataSetColumn="IssueDate" />
+              <Mapping SourceColumn="DocumentLabel" DataSetColumn="DocumentLabel" />
+              <Mapping SourceColumn="DayCount" DataSetColumn="DayCount" />
+              <Mapping SourceColumn="WorkDay" DataSetColumn="WorkDay" />
+              <Mapping SourceColumn="EndDate" DataSetColumn="EndDate" />
+              <Mapping SourceColumn="Anotation" DataSetColumn="Anotation" />
+              <Mapping SourceColumn="WhoSigned" DataSetColumn="WhoSigned" />
+              <Mapping SourceColumn="ReceiverID" DataSetColumn="ReceiverID" />
+              <Mapping SourceColumn="ReceiversRD" DataSetColumn="ReceiversRD" />
+              <Mapping SourceColumn="CloseDate" DataSetColumn="CloseDate" />
+              <Mapping SourceColumn="Resolution" DataSetColumn="Resolution" />
+              <Mapping SourceColumn="HasContent" DataSetColumn="HasContent" />
+              <Mapping SourceColumn="Thread" DataSetColumn="Thread" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="docmasterConnectionString (Settings)" DbObjectName="docmaster.Letters_for_06" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillByGasuli" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByGasuli" GeneratorSourceName="FillByGasuli" GetMethodModifier="Public" GetMethodName="GetDataByGasuli" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByGasuli" UserSourceName="FillByGasuli">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        *
+FROM            Letters_for_06
+WHERE        (FlowDirectionID = 1)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="docmasterConnectionString (Settings)" DbObjectName="docmaster.Letters_for_06" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillByShemosuli" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByShemosuli" GeneratorSourceName="FillByShemosuli" GetMethodModifier="Public" GetMethodName="GetDataByShemosuli" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByShemosuli" UserSourceName="FillByShemosuli">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT Anotation, BriefcaseID, CloseDate, CorrOrgID, DayCount, DocumentLabel, DocumentStateID, DocumentTypeID, EndDate, FlowDirectionID, HasContent, ID, IssueDate, ReceiverID, ReceiversRD, Resolution, Thread, WhoSigned, WorkDay, direction, full_name, name, state, type FROM Letters_for_06 WHERE (FlowDirectionID = 3)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="docmaster" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="docmaster" msprop:Generator_UserDSName="docmaster">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Letters_for_06" msprop:Generator_TableClassName="Letters_for_06DataTable" msprop:Generator_TableVarName="tableLetters_for_06" msprop:Generator_TablePropName="Letters_for_06" msprop:Generator_RowDeletingName="Letters_for_06RowDeleting" msprop:Generator_RowChangingName="Letters_for_06RowChanging" msprop:Generator_RowEvHandlerName="Letters_for_06RowChangeEventHandler" msprop:Generator_RowDeletedName="Letters_for_06RowDeleted" msprop:Generator_UserTableName="Letters_for_06" msprop:Generator_RowChangedName="Letters_for_06RowChanged" msprop:Generator_RowEvArgName="Letters_for_06RowChangeEvent" msprop:Generator_RowClassName="Letters_for_06Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:unsignedInt" />
+              <xs:element name="FlowDirectionID" msprop:Generator_ColumnVarNameInTable="columnFlowDirectionID" msprop:Generator_ColumnPropNameInRow="FlowDirectionID" msprop:Generator_ColumnPropNameInTable="FlowDirectionIDColumn" msprop:Generator_UserColumnName="FlowDirectionID" type="xs:unsignedInt" />
+              <xs:element name="direction" msprop:Generator_ColumnVarNameInTable="columndirection" msprop:Generator_ColumnPropNameInRow="direction" msprop:Generator_ColumnPropNameInTable="directionColumn" msprop:Generator_UserColumnName="direction" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="BriefcaseID" msprop:Generator_ColumnVarNameInTable="columnBriefcaseID" msprop:Generator_ColumnPropNameInRow="BriefcaseID" msprop:Generator_ColumnPropNameInTable="BriefcaseIDColumn" msprop:Generator_UserColumnName="BriefcaseID" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="DocumentTypeID" msprop:Generator_ColumnVarNameInTable="columnDocumentTypeID" msprop:Generator_ColumnPropNameInRow="DocumentTypeID" msprop:Generator_ColumnPropNameInTable="DocumentTypeIDColumn" msprop:Generator_UserColumnName="DocumentTypeID" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="type" msprop:Generator_ColumnVarNameInTable="columntype" msprop:Generator_ColumnPropNameInRow="type" msprop:Generator_ColumnPropNameInTable="typeColumn" msprop:Generator_UserColumnName="type" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CorrOrgID" msprop:Generator_ColumnVarNameInTable="columnCorrOrgID" msprop:Generator_ColumnPropNameInRow="CorrOrgID" msprop:Generator_ColumnPropNameInTable="CorrOrgIDColumn" msprop:Generator_UserColumnName="CorrOrgID" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnPropNameInTable="nameColumn" msprop:Generator_UserColumnName="name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="21845" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="full_name" msprop:Generator_ColumnVarNameInTable="columnfull_name" msprop:Generator_ColumnPropNameInRow="full_name" msprop:Generator_ColumnPropNameInTable="full_nameColumn" msprop:Generator_UserColumnName="full_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="21845" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DocumentStateID" msprop:Generator_ColumnVarNameInTable="columnDocumentStateID" msprop:Generator_ColumnPropNameInRow="DocumentStateID" msprop:Generator_ColumnPropNameInTable="DocumentStateIDColumn" msprop:Generator_UserColumnName="DocumentStateID" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="state" msprop:Generator_ColumnVarNameInTable="columnstate" msprop:Generator_ColumnPropNameInRow="state" msprop:Generator_ColumnPropNameInTable="stateColumn" msprop:Generator_UserColumnName="state" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IssueDate" msprop:Generator_ColumnVarNameInTable="columnIssueDate" msprop:Generator_ColumnPropNameInRow="IssueDate" msprop:Generator_ColumnPropNameInTable="IssueDateColumn" msprop:Generator_UserColumnName="IssueDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DocumentLabel" msprop:Generator_ColumnVarNameInTable="columnDocumentLabel" msprop:Generator_ColumnPropNameInRow="DocumentLabel" msprop:Generator_ColumnPropNameInTable="DocumentLabelColumn" msprop:Generator_UserColumnName="DocumentLabel">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DayCount" msprop:Generator_ColumnVarNameInTable="columnDayCount" msprop:Generator_ColumnPropNameInRow="DayCount" msprop:Generator_ColumnPropNameInTable="DayCountColumn" msprop:Generator_UserColumnName="DayCount" type="xs:int" minOccurs="0" />
+              <xs:element name="WorkDay" msprop:Generator_ColumnVarNameInTable="columnWorkDay" msprop:Generator_ColumnPropNameInRow="WorkDay" msprop:Generator_ColumnPropNameInTable="WorkDayColumn" msprop:Generator_UserColumnName="WorkDay" type="xs:boolean" minOccurs="0" />
+              <xs:element name="EndDate" msprop:Generator_ColumnVarNameInTable="columnEndDate" msprop:Generator_ColumnPropNameInRow="EndDate" msprop:Generator_ColumnPropNameInTable="EndDateColumn" msprop:Generator_UserColumnName="EndDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Anotation" msprop:Generator_ColumnVarNameInTable="columnAnotation" msprop:Generator_ColumnPropNameInRow="Anotation" msprop:Generator_ColumnPropNameInTable="AnotationColumn" msprop:Generator_UserColumnName="Anotation" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="21845" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="WhoSigned" msprop:Generator_ColumnVarNameInTable="columnWhoSigned" msprop:Generator_ColumnPropNameInRow="WhoSigned" msprop:Generator_ColumnPropNameInTable="WhoSignedColumn" msprop:Generator_UserColumnName="WhoSigned" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ReceiverID" msprop:Generator_ColumnVarNameInTable="columnReceiverID" msprop:Generator_ColumnPropNameInRow="ReceiverID" msprop:Generator_ColumnPropNameInTable="ReceiverIDColumn" msprop:Generator_UserColumnName="ReceiverID" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="ReceiversRD" msprop:Generator_ColumnVarNameInTable="columnReceiversRD" msprop:Generator_ColumnPropNameInRow="ReceiversRD" msprop:Generator_ColumnPropNameInTable="ReceiversRDColumn" msprop:Generator_UserColumnName="ReceiversRD" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="21845" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CloseDate" msprop:Generator_ColumnVarNameInTable="columnCloseDate" msprop:Generator_ColumnPropNameInRow="CloseDate" msprop:Generator_ColumnPropNameInTable="CloseDateColumn" msprop:Generator_UserColumnName="CloseDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Resolution" msprop:Generator_ColumnVarNameInTable="columnResolution" msprop:Generator_ColumnPropNameInRow="Resolution" msprop:Generator_ColumnPropNameInTable="ResolutionColumn" msprop:Generator_UserColumnName="Resolution" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="21845" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HasContent" msprop:Generator_ColumnVarNameInTable="columnHasContent" msprop:Generator_ColumnPropNameInRow="HasContent" msprop:Generator_ColumnPropNameInTable="HasContentColumn" msprop:Generator_UserColumnName="HasContent" type="xs:boolean" />
+              <xs:element name="Thread" msprop:Generator_ColumnVarNameInTable="columnThread" msprop:Generator_ColumnPropNameInRow="Thread" msprop:Generator_ColumnPropNameInTable="ThreadColumn" msprop:Generator_UserColumnName="Thread" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Letters_for_06" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

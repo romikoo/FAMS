@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="pubsDataSet" targetNamespace="http://tempuri.org/pubsDataSet.xsd" xmlns:mstns="http://tempuri.org/pubsDataSet.xsd" xmlns="http://tempuri.org/pubsDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" GeneratorFunctionsComponentClassName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" UserFunctionsComponentName="QueriesTableAdapter" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="pubsConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="pubsConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DataBase.Properties.Settings.GlobalReference.Default.pubsConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vw_aspnet_MembershipUsersTableAdapter" GeneratorDataComponentClassName="vw_aspnet_MembershipUsersTableAdapter" Name="vw_aspnet_MembershipUsers" UserDataComponentName="vw_aspnet_MembershipUsersTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="pubsConnectionString (Settings)" DbObjectName="pubs.dbo.vw_aspnet_MembershipUsers" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT UserId, PasswordFormat, MobilePIN, Email, LoweredEmail, PasswordQuestion, PasswordAnswer, IsApproved, IsLockedOut, CreateDate, LastLoginDate, LastPasswordChangedDate, LastLockoutDate, FailedPasswordAttemptCount, FailedPasswordAttemptWindowStart, FailedPasswordAnswerAttemptCount, FailedPasswordAnswerAttemptWindowStart, Comment, ApplicationId, UserName, MobileAlias, IsAnonymous, LastActivityDate, Password FROM dbo.vw_aspnet_MembershipUsers</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="UserId" DataSetColumn="UserId" />
+              <Mapping SourceColumn="PasswordFormat" DataSetColumn="PasswordFormat" />
+              <Mapping SourceColumn="MobilePIN" DataSetColumn="MobilePIN" />
+              <Mapping SourceColumn="Email" DataSetColumn="Email" />
+              <Mapping SourceColumn="LoweredEmail" DataSetColumn="LoweredEmail" />
+              <Mapping SourceColumn="PasswordQuestion" DataSetColumn="PasswordQuestion" />
+              <Mapping SourceColumn="PasswordAnswer" DataSetColumn="PasswordAnswer" />
+              <Mapping SourceColumn="IsApproved" DataSetColumn="IsApproved" />
+              <Mapping SourceColumn="IsLockedOut" DataSetColumn="IsLockedOut" />
+              <Mapping SourceColumn="CreateDate" DataSetColumn="CreateDate" />
+              <Mapping SourceColumn="LastLoginDate" DataSetColumn="LastLoginDate" />
+              <Mapping SourceColumn="LastPasswordChangedDate" DataSetColumn="LastPasswordChangedDate" />
+              <Mapping SourceColumn="LastLockoutDate" DataSetColumn="LastLockoutDate" />
+              <Mapping SourceColumn="FailedPasswordAttemptCount" DataSetColumn="FailedPasswordAttemptCount" />
+              <Mapping SourceColumn="FailedPasswordAttemptWindowStart" DataSetColumn="FailedPasswordAttemptWindowStart" />
+              <Mapping SourceColumn="FailedPasswordAnswerAttemptCount" DataSetColumn="FailedPasswordAnswerAttemptCount" />
+              <Mapping SourceColumn="FailedPasswordAnswerAttemptWindowStart" DataSetColumn="FailedPasswordAnswerAttemptWindowStart" />
+              <Mapping SourceColumn="Comment" DataSetColumn="Comment" />
+              <Mapping SourceColumn="ApplicationId" DataSetColumn="ApplicationId" />
+              <Mapping SourceColumn="UserName" DataSetColumn="UserName" />
+              <Mapping SourceColumn="MobileAlias" DataSetColumn="MobileAlias" />
+              <Mapping SourceColumn="IsAnonymous" DataSetColumn="IsAnonymous" />
+              <Mapping SourceColumn="LastActivityDate" DataSetColumn="LastActivityDate" />
+              <Mapping SourceColumn="Password" DataSetColumn="Password" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources>
+          <DbSource ConnectionRef="pubsConnectionString (Settings)" DbObjectName="pubs.dbo.aspnet_Membership_CreateUser" DbObjectType="StoredProcedure" GenerateShortCommands="true" GeneratorSourceName="aspnet_Membership_CreateUser" MethodsParameterType="CLR" Modifier="Public" Name="aspnet_Membership_CreateUser" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="aspnet_Membership_CreateUser">
+            <SelectCommand>
+              <DbCommand CommandType="StoredProcedure" ModifiedByUser="false">
+                <CommandText>dbo.aspnet_Membership_CreateUser</CommandText>
+                <Parameters>
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="int" DbType="Int32" Direction="ReturnValue" ParameterName="@RETURN_VALUE" Precision="10" ProviderType="Int" Scale="0" Size="4" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@ApplicationName" Precision="0" ProviderType="NVarChar" Scale="0" Size="256" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@UserName" Precision="0" ProviderType="NVarChar" Scale="0" Size="256" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@Password" Precision="0" ProviderType="NVarChar" Scale="0" Size="128" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@PasswordSalt" Precision="0" ProviderType="NVarChar" Scale="0" Size="128" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@Email" Precision="0" ProviderType="NVarChar" Scale="0" Size="256" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@PasswordQuestion" Precision="0" ProviderType="NVarChar" Scale="0" Size="256" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@PasswordAnswer" Precision="0" ProviderType="NVarChar" Scale="0" Size="128" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="bit" DbType="Boolean" Direction="Input" ParameterName="@IsApproved" Precision="1" ProviderType="Bit" Scale="0" Size="1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@CurrentTimeUtc" Precision="23" ProviderType="DateTime" Scale="3" Size="8" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@CreateDate" Precision="23" ProviderType="DateTime" Scale="3" Size="8" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@UniqueEmail" Precision="10" ProviderType="Int" Scale="0" Size="4" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@PasswordFormat" Precision="10" ProviderType="Int" Scale="0" Size="4" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="uniqueidentifier" DbType="Guid" Direction="InputOutput" ParameterName="@UserId" Precision="0" ProviderType="UniqueIdentifier" Scale="0" Size="16" SourceColumnNullMapping="false" SourceVersion="Current" />
+                </Parameters>
+              </DbCommand>
+            </SelectCommand>
+          </DbSource>
+          <DbSource ConnectionRef="pubsConnectionString (Settings)" DbObjectName="pubs.dbo.aspnet_Membership_UpdateUser" DbObjectType="StoredProcedure" GenerateShortCommands="true" GeneratorSourceName="aspnet_Membership_UpdateUser" MethodsParameterType="CLR" Modifier="Public" Name="aspnet_Membership_UpdateUser" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy1" UserSourceName="aspnet_Membership_UpdateUser">
+            <SelectCommand>
+              <DbCommand CommandType="StoredProcedure" ModifiedByUser="false">
+                <CommandText>dbo.aspnet_Membership_UpdateUser</CommandText>
+                <Parameters>
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="int" DbType="Int32" Direction="ReturnValue" ParameterName="@RETURN_VALUE" Precision="10" ProviderType="Int" Scale="0" Size="4" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@ApplicationName" Precision="0" ProviderType="NVarChar" Scale="0" Size="256" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@UserName" Precision="0" ProviderType="NVarChar" Scale="0" Size="256" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@Email" Precision="0" ProviderType="NVarChar" Scale="0" Size="256" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="ntext" DbType="String" Direction="Input" ParameterName="@Comment" Precision="0" ProviderType="NText" Scale="0" Size="1073741823" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="bit" DbType="Boolean" Direction="Input" ParameterName="@IsApproved" Precision="1" ProviderType="Bit" Scale="0" Size="1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@LastLoginDate" Precision="23" ProviderType="DateTime" Scale="3" Size="8" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@LastActivityDate" Precision="23" ProviderType="DateTime" Scale="3" Size="8" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@UniqueEmail" Precision="10" ProviderType="Int" Scale="0" Size="4" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@CurrentTimeUtc" Precision="23" ProviderType="DateTime" Scale="3" Size="8" SourceColumnNullMapping="false" SourceVersion="Current" />
+                </Parameters>
+              </DbCommand>
+            </SelectCommand>
+          </DbSource>
+          <DbSource ConnectionRef="pubsConnectionString (Settings)" DbObjectName="pubs.dbo.aspnet_UsersInRoles_AddUsersToRoles" DbObjectType="StoredProcedure" GenerateShortCommands="true" GeneratorSourceName="aspnet_UsersInRoles_AddUsersToRoles" MethodsParameterType="CLR" Modifier="Public" Name="aspnet_UsersInRoles_AddUsersToRoles" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy2" UserSourceName="aspnet_UsersInRoles_AddUsersToRoles">
+            <SelectCommand>
+              <DbCommand CommandType="StoredProcedure" ModifiedByUser="false">
+                <CommandText>dbo.aspnet_UsersInRoles_AddUsersToRoles</CommandText>
+                <Parameters>
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="int" DbType="Int32" Direction="ReturnValue" ParameterName="@RETURN_VALUE" Precision="10" ProviderType="Int" Scale="0" Size="4" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@ApplicationName" Precision="0" ProviderType="NVarChar" Scale="0" Size="256" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@UserNames" Precision="0" ProviderType="NVarChar" Scale="0" Size="4000" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="nvarchar" DbType="String" Direction="Input" ParameterName="@RoleNames" Precision="0" ProviderType="NVarChar" Scale="0" Size="4000" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@CurrentTimeUtc" Precision="23" ProviderType="DateTime" Scale="3" Size="8" SourceColumnNullMapping="false" SourceVersion="Current" />
+                </Parameters>
+              </DbCommand>
+            </SelectCommand>
+          </DbSource>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="pubsDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="pubsDataSet" msprop:Generator_UserDSName="pubsDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vw_aspnet_MembershipUsers" msprop:Generator_TableClassName="vw_aspnet_MembershipUsersDataTable" msprop:Generator_TableVarName="tablevw_aspnet_MembershipUsers" msprop:Generator_TablePropName="vw_aspnet_MembershipUsers" msprop:Generator_RowDeletingName="vw_aspnet_MembershipUsersRowDeleting" msprop:Generator_RowChangingName="vw_aspnet_MembershipUsersRowChanging" msprop:Generator_RowEvHandlerName="vw_aspnet_MembershipUsersRowChangeEventHandler" msprop:Generator_RowDeletedName="vw_aspnet_MembershipUsersRowDeleted" msprop:Generator_UserTableName="vw_aspnet_MembershipUsers" msprop:Generator_RowChangedName="vw_aspnet_MembershipUsersRowChanged" msprop:Generator_RowEvArgName="vw_aspnet_MembershipUsersRowChangeEvent" msprop:Generator_RowClassName="vw_aspnet_MembershipUsersRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="UserId" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnUserId" msprop:Generator_ColumnPropNameInRow="UserId" msprop:Generator_ColumnPropNameInTable="UserIdColumn" msprop:Generator_UserColumnName="UserId" type="xs:string" />
+              <xs:element name="PasswordFormat" msprop:Generator_ColumnVarNameInTable="columnPasswordFormat" msprop:Generator_ColumnPropNameInRow="PasswordFormat" msprop:Generator_ColumnPropNameInTable="PasswordFormatColumn" msprop:Generator_UserColumnName="PasswordFormat" type="xs:int" />
+              <xs:element name="MobilePIN" msprop:Generator_ColumnVarNameInTable="columnMobilePIN" msprop:Generator_ColumnPropNameInRow="MobilePIN" msprop:Generator_ColumnPropNameInTable="MobilePINColumn" msprop:Generator_UserColumnName="MobilePIN" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="16" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Email" msprop:Generator_ColumnVarNameInTable="columnEmail" msprop:Generator_ColumnPropNameInRow="Email" msprop:Generator_ColumnPropNameInTable="EmailColumn" msprop:Generator_UserColumnName="Email" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="256" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LoweredEmail" msprop:Generator_ColumnVarNameInTable="columnLoweredEmail" msprop:Generator_ColumnPropNameInRow="LoweredEmail" msprop:Generator_ColumnPropNameInTable="LoweredEmailColumn" msprop:Generator_UserColumnName="LoweredEmail" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="256" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PasswordQuestion" msprop:Generator_ColumnVarNameInTable="columnPasswordQuestion" msprop:Generator_ColumnPropNameInRow="PasswordQuestion" msprop:Generator_ColumnPropNameInTable="PasswordQuestionColumn" msprop:Generator_UserColumnName="PasswordQuestion" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="256" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PasswordAnswer" msprop:Generator_ColumnVarNameInTable="columnPasswordAnswer" msprop:Generator_ColumnPropNameInRow="PasswordAnswer" msprop:Generator_ColumnPropNameInTable="PasswordAnswerColumn" msprop:Generator_UserColumnName="PasswordAnswer" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="128" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IsApproved" msprop:Generator_ColumnVarNameInTable="columnIsApproved" msprop:Generator_ColumnPropNameInRow="IsApproved" msprop:Generator_ColumnPropNameInTable="IsApprovedColumn" msprop:Generator_UserColumnName="IsApproved" type="xs:boolean" />
+              <xs:element name="IsLockedOut" msprop:Generator_ColumnVarNameInTable="columnIsLockedOut" msprop:Generator_ColumnPropNameInRow="IsLockedOut" msprop:Generator_ColumnPropNameInTable="IsLockedOutColumn" msprop:Generator_UserColumnName="IsLockedOut" type="xs:boolean" />
+              <xs:element name="CreateDate" msprop:Generator_ColumnVarNameInTable="columnCreateDate" msprop:Generator_ColumnPropNameInRow="CreateDate" msprop:Generator_ColumnPropNameInTable="CreateDateColumn" msprop:Generator_UserColumnName="CreateDate" type="xs:dateTime" />
+              <xs:element name="LastLoginDate" msprop:Generator_ColumnVarNameInTable="columnLastLoginDate" msprop:Generator_ColumnPropNameInRow="LastLoginDate" msprop:Generator_ColumnPropNameInTable="LastLoginDateColumn" msprop:Generator_UserColumnName="LastLoginDate" type="xs:dateTime" />
+              <xs:element name="LastPasswordChangedDate" msprop:Generator_ColumnVarNameInTable="columnLastPasswordChangedDate" msprop:Generator_ColumnPropNameInRow="LastPasswordChangedDate" msprop:Generator_ColumnPropNameInTable="LastPasswordChangedDateColumn" msprop:Generator_UserColumnName="LastPasswordChangedDate" type="xs:dateTime" />
+              <xs:element name="LastLockoutDate" msprop:Generator_ColumnVarNameInTable="columnLastLockoutDate" msprop:Generator_ColumnPropNameInRow="LastLockoutDate" msprop:Generator_ColumnPropNameInTable="LastLockoutDateColumn" msprop:Generator_UserColumnName="LastLockoutDate" type="xs:dateTime" />
+              <xs:element name="FailedPasswordAttemptCount" msprop:Generator_ColumnVarNameInTable="columnFailedPasswordAttemptCount" msprop:Generator_ColumnPropNameInRow="FailedPasswordAttemptCount" msprop:Generator_ColumnPropNameInTable="FailedPasswordAttemptCountColumn" msprop:Generator_UserColumnName="FailedPasswordAttemptCount" type="xs:int" />
+              <xs:element name="FailedPasswordAttemptWindowStart" msprop:Generator_ColumnVarNameInTable="columnFailedPasswordAttemptWindowStart" msprop:Generator_ColumnPropNameInRow="FailedPasswordAttemptWindowStart" msprop:Generator_ColumnPropNameInTable="FailedPasswordAttemptWindowStartColumn" msprop:Generator_UserColumnName="FailedPasswordAttemptWindowStart" type="xs:dateTime" />
+              <xs:element name="FailedPasswordAnswerAttemptCount" msprop:Generator_ColumnVarNameInTable="columnFailedPasswordAnswerAttemptCount" msprop:Generator_ColumnPropNameInRow="FailedPasswordAnswerAttemptCount" msprop:Generator_ColumnPropNameInTable="FailedPasswordAnswerAttemptCountColumn" msprop:Generator_UserColumnName="FailedPasswordAnswerAttemptCount" type="xs:int" />
+              <xs:element name="FailedPasswordAnswerAttemptWindowStart" msprop:Generator_ColumnVarNameInTable="columnFailedPasswordAnswerAttemptWindowStart" msprop:Generator_ColumnPropNameInRow="FailedPasswordAnswerAttemptWindowStart" msprop:Generator_ColumnPropNameInTable="FailedPasswordAnswerAttemptWindowStartColumn" msprop:Generator_UserColumnName="FailedPasswordAnswerAttemptWindowStart" type="xs:dateTime" />
+              <xs:element name="Comment" msprop:Generator_ColumnVarNameInTable="columnComment" msprop:Generator_ColumnPropNameInRow="Comment" msprop:Generator_ColumnPropNameInTable="CommentColumn" msprop:Generator_UserColumnName="Comment" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1073741823" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ApplicationId" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnApplicationId" msprop:Generator_ColumnPropNameInRow="ApplicationId" msprop:Generator_ColumnPropNameInTable="ApplicationIdColumn" msprop:Generator_UserColumnName="ApplicationId" type="xs:string" />
+              <xs:element name="UserName" msprop:Generator_ColumnVarNameInTable="columnUserName" msprop:Generator_ColumnPropNameInRow="UserName" msprop:Generator_ColumnPropNameInTable="UserNameColumn" msprop:Generator_UserColumnName="UserName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="256" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MobileAlias" msprop:Generator_ColumnVarNameInTable="columnMobileAlias" msprop:Generator_ColumnPropNameInRow="MobileAlias" msprop:Generator_ColumnPropNameInTable="MobileAliasColumn" msprop:Generator_UserColumnName="MobileAlias" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="16" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IsAnonymous" msprop:Generator_ColumnVarNameInTable="columnIsAnonymous" msprop:Generator_ColumnPropNameInRow="IsAnonymous" msprop:Generator_ColumnPropNameInTable="IsAnonymousColumn" msprop:Generator_UserColumnName="IsAnonymous" type="xs:boolean" />
+              <xs:element name="LastActivityDate" msprop:Generator_ColumnVarNameInTable="columnLastActivityDate" msprop:Generator_ColumnPropNameInRow="LastActivityDate" msprop:Generator_ColumnPropNameInTable="LastActivityDateColumn" msprop:Generator_UserColumnName="LastActivityDate" type="xs:dateTime" />
+              <xs:element name="Password" msprop:Generator_ColumnVarNameInTable="columnPassword" msprop:Generator_ColumnPropNameInRow="Password" msprop:Generator_ColumnPropNameInTable="PasswordColumn" msprop:Generator_UserColumnName="Password">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="128" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

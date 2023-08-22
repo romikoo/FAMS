@@ -1,0 +1,30 @@
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Build\Release\Demo.WindowsForms.exe.manifest
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Build\Release\Demo.WindowsForms.application
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Build\Release\Demo.WindowsForms.exe
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\ResolveAssemblyReference.cache
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\BSE.Windows.Forms.Panel.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\BSE.Windows.Forms.XPanderPanel.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\BSE.Windows.Forms.XPanderPanelList.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\Demo.WindowsForms.MainForm.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\Demo.WindowsForms.Forms.Message.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\Demo.WindowsForms.StaticImage.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\Demo.WindowsForms.Properties.Resources.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\Demo.WindowsForms.csproj.GenerateResource.Cache
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\Demo.WindowsForms.TrustInfo.xml
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\Demo.WindowsForms.exe.manifest
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\Demo.WindowsForms.application
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Release\Demo.WindowsForms.exe
+D:\!_C#\Build\Release\Demo.WindowsForms.exe.manifest
+D:\!_C#\Build\Release\Demo.WindowsForms.application
+D:\!_C#\Build\Release\Demo.WindowsForms.exe
+D:\!_C#\Demo.WindowsForms 1\obj\Release\ResolveAssemblyReference.cache
+D:\!_C#\Demo.WindowsForms 1\obj\Release\BSE.Windows.Forms.Panel.resources
+D:\!_C#\Demo.WindowsForms 1\obj\Release\BSE.Windows.Forms.XPanderPanel.resources
+D:\!_C#\Demo.WindowsForms 1\obj\Release\BSE.Windows.Forms.XPanderPanelList.resources
+D:\!_C#\Demo.WindowsForms 1\obj\Release\Demo.WindowsForms.MainForm.resources
+D:\!_C#\Demo.WindowsForms 1\obj\Release\Demo.WindowsForms.Properties.Resources.resources
+D:\!_C#\Demo.WindowsForms 1\obj\Release\Demo.WindowsForms.csproj.GenerateResource.Cache
+D:\!_C#\Demo.WindowsForms 1\obj\Release\Demo.WindowsForms.TrustInfo.xml
+D:\!_C#\Demo.WindowsForms 1\obj\Release\Demo.WindowsForms.exe.manifest
+D:\!_C#\Demo.WindowsForms 1\obj\Release\Demo.WindowsForms.application
+D:\!_C#\Demo.WindowsForms 1\obj\Release\Demo.WindowsForms.exe

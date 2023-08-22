@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="GNCCDBDataSet" targetNamespace="http://tempuri.org/GNCCDBDataSet.xsd" xmlns:mstns="http://tempuri.org/GNCCDBDataSet.xsd" xmlns="http://tempuri.org/GNCCDBDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="GNCCDBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="GNCCDBConnectionString (Settings)" PropertyReference="ApplicationSettings.DataBase.Properties.Settings.GlobalReference.Default.GNCCDBConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vDataExchange_LicensesTableAdapter" GeneratorDataComponentClassName="vDataExchange_LicensesTableAdapter" Name="vDataExchange_Licenses" UserDataComponentName="vDataExchange_LicensesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GNCCDBConnectionString (Settings)" DbObjectName="RegistryDB.dbo.vDataExchange_Licenses" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT LicNum, IssueDate, EndDate, LicType, ResNum, ResDate, URL FROM vDataExchange_Licenses ORDER BY LicNum, IssueDate</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="LicNum" DataSetColumn="LicNum" />
+              <Mapping SourceColumn="IssueDate" DataSetColumn="IssueDate" />
+              <Mapping SourceColumn="EndDate" DataSetColumn="EndDate" />
+              <Mapping SourceColumn="LicType" DataSetColumn="LicType" />
+              <Mapping SourceColumn="ResNum" DataSetColumn="ResNum" />
+              <Mapping SourceColumn="ResDate" DataSetColumn="ResDate" />
+              <Mapping SourceColumn="URL" DataSetColumn="URL" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="GNCCDBDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="GNCCDBDataSet" msprop:Generator_UserDSName="GNCCDBDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vDataExchange_Licenses" msprop:Generator_TableClassName="vDataExchange_LicensesDataTable" msprop:Generator_TableVarName="tablevDataExchange_Licenses" msprop:Generator_RowChangedName="vDataExchange_LicensesRowChanged" msprop:Generator_TablePropName="vDataExchange_Licenses" msprop:Generator_RowDeletingName="vDataExchange_LicensesRowDeleting" msprop:Generator_RowChangingName="vDataExchange_LicensesRowChanging" msprop:Generator_RowEvHandlerName="vDataExchange_LicensesRowChangeEventHandler" msprop:Generator_RowDeletedName="vDataExchange_LicensesRowDeleted" msprop:Generator_RowClassName="vDataExchange_LicensesRow" msprop:Generator_UserTableName="vDataExchange_Licenses" msprop:Generator_RowEvArgName="vDataExchange_LicensesRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LicNum" msprop:Generator_ColumnVarNameInTable="columnLicNum" msprop:Generator_ColumnPropNameInRow="LicNum" msprop:Generator_ColumnPropNameInTable="LicNumColumn" msprop:Generator_UserColumnName="LicNum" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IssueDate" msprop:Generator_ColumnVarNameInTable="columnIssueDate" msprop:Generator_ColumnPropNameInRow="IssueDate" msprop:Generator_ColumnPropNameInTable="IssueDateColumn" msprop:Generator_UserColumnName="IssueDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="EndDate" msprop:Generator_ColumnVarNameInTable="columnEndDate" msprop:Generator_ColumnPropNameInRow="EndDate" msprop:Generator_ColumnPropNameInTable="EndDateColumn" msprop:Generator_UserColumnName="EndDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="LicType" msprop:Generator_ColumnVarNameInTable="columnLicType" msprop:Generator_ColumnPropNameInRow="LicType" msprop:Generator_ColumnPropNameInTable="LicTypeColumn" msprop:Generator_UserColumnName="LicType" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1024" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ResNum" msprop:Generator_ColumnVarNameInTable="columnResNum" msprop:Generator_ColumnPropNameInRow="ResNum" msprop:Generator_ColumnPropNameInTable="ResNumColumn" msprop:Generator_UserColumnName="ResNum" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ResDate" msprop:Generator_ColumnVarNameInTable="columnResDate" msprop:Generator_ColumnPropNameInRow="ResDate" msprop:Generator_ColumnPropNameInTable="ResDateColumn" msprop:Generator_UserColumnName="ResDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="URL" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnURL" msprop:Generator_ColumnPropNameInRow="URL" msprop:Generator_ColumnPropNameInTable="URLColumn" msprop:Generator_UserColumnName="URL" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1000" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

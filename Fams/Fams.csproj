@@ -1,0 +1,835 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <ProjectGuid>{A2BA5360-99E8-4D0E-89A9-983A3598EC0C}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Fams</RootNamespace>
+    <AssemblyName>Fams</AssemblyName>
+    <ApplicationIcon>III.ico</ApplicationIcon>
+    <Thumbnail>Resources\icons\Pirate.png</Thumbnail>
+    <ManifestCertificateThumbprint>76E7A6AC9E171322DF7C091B437FDCEC60C7DAC0</ManifestCertificateThumbprint>
+    <ManifestKeyFile>SheetKit_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetZone>LocalIntranet</TargetZone>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>\\MCC-FLS\_Programs_\FAMS\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <ProductName>Fams III</ProductName>
+    <PublisherName>Roman Kurdadze</PublisherName>
+    <SuiteName>FAMS</SuiteName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>5.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG%3bTRACE%3bWINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS,RELEASE,MOBILE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Mobile|x86' ">
+    <OutputPath>bin\x86\Mobile\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoStdLib>true</NoStdLib>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Map.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v17.2.Drawing, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraMap.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPdfViewer.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Janus.Data.v4, Version=4.0.18.0, Culture=neutral, PublicKeyToken=21d5517571b185bf">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Janus.Windows.Common.v4, Version=4.0.18.0, Culture=neutral, PublicKeyToken=21d5517571b185bf">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Janus.Windows.GridEX.v4, Version=4.0.18.0, Culture=neutral, PublicKeyToken=21d5517571b185bf">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Janus.Windows.UI.v4, Version=4.0.18.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="Spire.License">
+      <HintPath>.\Spire.License.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Pdf">
+      <HintPath>.\Spire.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Design">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.ServiceModel">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls, Version=2014.3.1021.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.GridView, Version=2014.3.1021.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.UI, Version=2014.3.1021.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="TelerikCommon, Version=2014.3.1021.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="UIAutomationClient" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CellToPaint.cs" />
+    <Compile Include="frmAct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAct.designer.cs">
+      <DependentUpon>frmAct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdministrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdministrator.Designer.cs">
+      <DependentUpon>frmAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAllActs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAllActs.Designer.cs">
+      <DependentUpon>frmAllActs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAzimut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAzimut.Designer.cs">
+      <DependentUpon>frmAzimut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalcResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalcResults.Designer.cs">
+      <DependentUpon>frmCalcResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCompany.designer.cs">
+      <DependentUpon>frmCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCoords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCoords.designer.cs">
+      <DependentUpon>frmCoords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDBfreq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDBfreq.Designer.cs">
+      <DependentUpon>frmDBfreq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDBImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDBImage.designer.cs">
+      <DependentUpon>frmDBImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDocmaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocmaster.Designer.cs">
+      <DependentUpon>frmDocmaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditText.Designer.cs">
+      <DependentUpon>frmEditText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditFreq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditFreq.designer.cs">
+      <DependentUpon>frmEditFreq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditLicence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditLicence.designer.cs">
+      <DependentUpon>frmEditLicence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLetterNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLetterNew.Designer.cs">
+      <DependentUpon>frmLetterNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLetter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLetter.Designer.cs">
+      <DependentUpon>frmLetter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLetterScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLetterScan.Designer.cs">
+      <DependentUpon>frmLetterScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMonitoring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMonitoring.Designer.cs">
+      <DependentUpon>frmMonitoring.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNebartva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNebartva.Designer.cs">
+      <DependentUpon>frmNebartva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewReestriUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewReestriUser.Designer.cs">
+      <DependentUpon>frmNewReestriUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotProlonged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotProlonged.Designer.cs">
+      <DependentUpon>frmNotProlonged.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrgs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrgs.Designer.cs">
+      <DependentUpon>frmOrgs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPickLicence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPickLicence.Designer.cs">
+      <DependentUpon>frmPickLicence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelFreqAllocValidity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelFreqAllocValidity.Designer.cs">
+      <DependentUpon>frmRelFreqAllocValidity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelLink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelLink.Designer.cs">
+      <DependentUpon>frmRelLink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSecured.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSecured.Designer.cs">
+      <DependentUpon>frmSecured.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStationsPasswords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStationsPasswords.Designer.cs">
+      <DependentUpon>frmStationsPasswords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUser.Designer.cs">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmXTerra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmXTerra.Designer.cs">
+      <DependentUpon>frmXTerra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="progress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="progress.designer.cs">
+      <DependentUpon>progress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Regioni.cs" />
+    <Compile Include="Reports\admStationsReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>admStationsReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\compInfo.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>compInfo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\DBImage.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBImage.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\letterReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>letterReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\licReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>licReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\password.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>password.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RepPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\RepPreview.Designer.cs">
+      <DependentUpon>RepPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RepSetupImages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\RepSetupImages.designer.cs">
+      <DependentUpon>RepSetupImages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\TechReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TechReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TechData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TechData.Designer.cs">
+      <DependentUpon>TechData.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico" />
+    <Content Include="GameThumbnail.png" />
+    <Content Include="III.ico" />
+    <Content Include="Pirate.ico" />
+    <Content Include="Content\MyFont.xnb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\pixel.xnb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Sylfaen.xnb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\DataBase.docmasterTableAdapters.Letters_for_06TableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.docmasterTableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="Properties\DataSources\DataBase.docmasterTableAdapters.TableAdapterManager.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.acc_FREQTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.acc_LettersTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.acc_Letters_scanTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.acc_projectWorkflowTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.acc_WorkflowTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.arc_fls_LICENCE_FREQTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.arc_fls_LICENCE_INFOTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.COMBO_CompAccountTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.COMBO_FeederTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.COMBO_PolarizationTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.ero_AllocationPlanTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.ero_AllocationsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.ero_ApplicationPlanTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.ero_ApplicationsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.ero_FR_BandTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.Fixed_rel_linksTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.fls_AzimutTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.fls_COMPANY_INFOTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.fls_LICENCE_FREQTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.fls_LICENCE_INFOTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.fls_NEBARTVATableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.fls_REL_LINKTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.fls_verificationActTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.monGraphTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.paroliani_da_uparolo_kompaniebiTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.QueriesTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.shekvanili_sadgurebiTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.st_rel_fixedTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.TECH_dataTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.TECH_dataView_forPrintTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.WFL_ProjectsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.WFL_TasksTableAdapter.datasource" />
+    <None Include="Properties\DataSources\DataBase.OfficeDataSetTableAdapters.Zone_CityTableAdapter.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\user.png" />
+    <None Include="App.config" />
+    <None Include="Resources\FAMS.jpg" />
+    <None Include="Resources\cut.png" />
+    <None Include="Resources\del.png" />
+    <None Include="Resources\answer.png" />
+    <None Include="Resources\arc.png" />
+    <None Include="Resources\map.png" />
+    <None Include="Resources\exit.ico" />
+    <None Include="Resources\freqs.ico" />
+    <None Include="Resources\delete_32x32.png" />
+    <None Include="Resources\login1.png" />
+    <None Include="Resources\password.png" />
+    <None Include="Resources\pdf_logo.png" />
+    <None Include="Resources\minimize.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\list.png" />
+    <None Include="Resources\pdf.png" />
+    <None Include="Resources\pdf-del.png" />
+    <None Include="Resources\Delete_filter.png" />
+    <None Include="Resources\certificate.png" />
+    <None Include="Resources\Calculate32.png" />
+    <Content Include="Resources\doc16.png" />
+    <Content Include="Resources\Monitor-Chart-icon.png" />
+    <Content Include="Resources\ok16.png" />
+    <Content Include="Resources\relfixed.png" />
+    <Content Include="Resources\relfixed_admin.png" />
+    <Content Include="Resources\relfixed_flip.png" />
+    <Content Include="Resources\relfixed_flip_admin.png" />
+    <Content Include="Resources\rels_image.jpg" />
+    <Content Include="Resources\archieve.png" />
+    <Content Include="Resources\des.png" />
+    <None Include="Resources\down.png" />
+    <None Include="Resources\fm.png" />
+    <None Include="Resources\FAMS1.jpg" />
+    <Content Include="Resources\icons\exp1.png" />
+    <Content Include="Resources\icons\exp2.png" />
+    <Content Include="Resources\icons\exp3.png" />
+    <Content Include="Resources\freq.png" />
+    <Content Include="Resources\icons\Pirate.ico" />
+    <Content Include="Resources\icons\Pirate.png" />
+    <Content Include="Resources\letter.png" />
+    <Content Include="Resources\lic.png" />
+    <None Include="Resources\nebartva.jpg" />
+    <None Include="Resources\money.png" />
+    <None Include="Resources\logo.jpg" />
+    <Content Include="Resources\org.png" />
+    <Content Include="Resources\perm.png" />
+    <None Include="Resources\print.png" />
+    <None Include="Resources\scan.png" />
+    <None Include="Resources\settings.png" />
+    <Content Include="Resources\stop16.png" />
+    <Content Include="Resources\swap28x28.png" />
+    <Content Include="Resources\tech.png" />
+    <None Include="Resources\transmitter.png" />
+    <None Include="Resources\tv.png" />
+    <None Include="Resources\up.png" />
+    <None Include="Resources\paste.png" />
+    <None Include="Resources\icons\Search.png" />
+    <None Include="Resources\icons\Search.ico" />
+    <None Include="Resources\111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <NestedContentProject Include="Content\Content.contentproj">
+      <Project>a316a30c-77d4-43c2-b0e8-73fd8b7bceb7</Project>
+      <Visible>False</Visible>
+    </NestedContentProject>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\app.manifest" />
+    <None Include="SheetKit_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAct.resx">
+      <DependentUpon>frmAct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdministrator.resx">
+      <DependentUpon>frmAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAllActs.resx">
+      <DependentUpon>frmAllActs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAzimut.resx">
+      <DependentUpon>frmAzimut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalcResults.resx">
+      <DependentUpon>frmCalcResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCompany.resx">
+      <DependentUpon>frmCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCoords.resx">
+      <DependentUpon>frmCoords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDBfreq.resx">
+      <DependentUpon>frmDBfreq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDBImage.resx">
+      <DependentUpon>frmDBImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDocmaster.resx">
+      <DependentUpon>frmDocmaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditText.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEditText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditFreq.resx">
+      <DependentUpon>frmEditFreq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditLicence.resx">
+      <DependentUpon>frmEditLicence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLetterNew.resx">
+      <DependentUpon>frmLetterNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLetter.resx">
+      <DependentUpon>frmLetter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLetterScan.resx">
+      <DependentUpon>frmLetterScan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMonitoring.resx">
+      <DependentUpon>frmMonitoring.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNebartva.resx">
+      <DependentUpon>frmNebartva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewReestriUser.resx">
+      <DependentUpon>frmNewReestriUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotProlonged.resx">
+      <DependentUpon>frmNotProlonged.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrgs.resx">
+      <DependentUpon>frmOrgs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPickLicence.resx">
+      <DependentUpon>frmPickLicence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelFreqAllocValidity.resx">
+      <DependentUpon>frmRelFreqAllocValidity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelLink.resx">
+      <DependentUpon>frmRelLink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSecured.resx">
+      <DependentUpon>frmSecured.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStationsPasswords.resx">
+      <DependentUpon>frmStationsPasswords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUser.resx">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmXTerra.resx">
+      <DependentUpon>frmXTerra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="progress.resx">
+      <DependentUpon>progress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\admStationsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>admStationsReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\compInfo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>compInfo.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\DBImage.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DBImage.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\letterReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>letterReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\licReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>licReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\password.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>password.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RepPreview.resx">
+      <DependentUpon>RepPreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RepSetupImages.resx">
+      <DependentUpon>RepSetupImages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\TechReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TechReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TechData.resx">
+      <DependentUpon>TechData.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="SAP.CrystalReports14.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>SAP Crystal Reports Runtime Engine for .NET Framework</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\DataBase\DataBase.csproj">
+      <Project>{678a7469-46ac-452a-aebd-3f01fa11cefe}</Project>
+      <Name>DataBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Earth\Earth.csproj">
+      <Project>{A2E07A76-8B2C-41A2-B23E-EA31AE94D706}</Project>
+      <Name>Earth</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ERO\ERO.csproj">
+      <Project>{956ff4b5-6261-4c31-98bf-d2b4f937e634}</Project>
+      <Name>ERO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Helpers\Helpers.csproj">
+      <Project>{47BCB990-BBFA-456B-A4BA-4B9E2F678EA5}</Project>
+      <Name>Helpers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XNA\XNA\XNA.csproj">
+      <Project>{74dda83a-0485-48d5-ae7e-e6936398c82b}</Project>
+      <Name>XNA</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

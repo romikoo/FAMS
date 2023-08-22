@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PrivilegiesDataSet" targetNamespace="http://tempuri.org/PrivilegiesDataSet.xsd" xmlns:mstns="http://tempuri.org/PrivilegiesDataSet.xsd" xmlns="http://tempuri.org/PrivilegiesDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="PrivilegiesConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="PrivilegiesConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DataBase.Properties.Settings.GlobalReference.Default.PrivilegiesConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PermissionsTableAdapter" GeneratorDataComponentClassName="PermissionsTableAdapter" Name="Permissions" UserDataComponentName="PermissionsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="PrivilegiesConnectionString (Settings)" DbObjectName="Privilegies.dbo.Permissions" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT    *
+FROM         Permissions</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TypeID" DataSetColumn="TypeID" />
+              <Mapping SourceColumn="EditFreqs" DataSetColumn="EditFreqs" />
+              <Mapping SourceColumn="DeleteFreqs" DataSetColumn="DeleteFreqs" />
+              <Mapping SourceColumn="EditLicence" DataSetColumn="EditLicence" />
+              <Mapping SourceColumn="DeleteLicence" DataSetColumn="DeleteLicence" />
+              <Mapping SourceColumn="EditComp" DataSetColumn="EditComp" />
+              <Mapping SourceColumn="DelComp" DataSetColumn="DelComp" />
+              <Mapping SourceColumn="EditFreqLic" DataSetColumn="EditFreqLic" />
+              <Mapping SourceColumn="EditFreqComp" DataSetColumn="EditFreqComp" />
+              <Mapping SourceColumn="ReestritCheck" DataSetColumn="ReestritCheck" />
+              <Mapping SourceColumn="AddFreq" DataSetColumn="AddFreq" />
+              <Mapping SourceColumn="Confidential" DataSetColumn="Confidential" />
+              <Mapping SourceColumn="FreqGraph" DataSetColumn="FreqGraph" />
+              <Mapping SourceColumn="Nebartva" DataSetColumn="Nebartva" />
+              <Mapping SourceColumn="AdminStationsAdd" DataSetColumn="AdminStationsAdd" />
+              <Mapping SourceColumn="AdminStationsEdit" DataSetColumn="AdminStationsEdit" />
+              <Mapping SourceColumn="AdminStationsDelete" DataSetColumn="AdminStationsDelete" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="UsersTableAdapter" GeneratorDataComponentClassName="UsersTableAdapter" Name="Users" UserDataComponentName="UsersTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="PrivilegiesConnectionString (Settings)" DbObjectName="Privilegies.dbo.Users" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>DELETE FROM [Users] WHERE (([UserName] = @Original_UserName) AND ([Password] = @Original_Password) AND ([TypeID] = @Original_TypeID))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_UserName" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="UserName" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_Password" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Password" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_TypeID" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="TypeID" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO [Users] ([UserName], [Password], [TypeID]) VALUES (@UserName, @Password, @TypeID);
+SELECT UserName, Password, TypeID FROM Users WHERE (UserName = @UserName) ORDER BY UserName</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@UserName" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="UserName" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Password" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Password" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@TypeID" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="TypeID" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT     UserName, Password, TypeID
+FROM         Users
+ORDER BY UserName</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>UPDATE [Users] SET [UserName] = @UserName, [Password] = @Password, [TypeID] = @TypeID WHERE (([UserName] = @Original_UserName) AND ([Password] = @Original_Password) AND ([TypeID] = @Original_TypeID));
+SELECT UserName, Password, TypeID FROM Users WHERE (UserName = @UserName) ORDER BY UserName</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@UserName" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="UserName" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Password" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Password" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@TypeID" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="TypeID" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_UserName" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="UserName" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_Password" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Password" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_TypeID" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="TypeID" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="UserName" DataSetColumn="UserName" />
+              <Mapping SourceColumn="TypeID" DataSetColumn="TypeID" />
+              <Mapping SourceColumn="Password" DataSetColumn="Password" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="PrivilegiesDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="PrivilegiesDataSet" msprop:Generator_UserDSName="PrivilegiesDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Permissions" msprop:Generator_UserTableName="Permissions" msprop:Generator_RowEvArgName="PermissionsRowChangeEvent" msprop:Generator_TableVarName="tablePermissions" msprop:Generator_TablePropName="Permissions" msprop:Generator_RowDeletingName="PermissionsRowDeleting" msprop:Generator_RowChangingName="PermissionsRowChanging" msprop:Generator_RowDeletedName="PermissionsRowDeleted" msprop:Generator_RowEvHandlerName="PermissionsRowChangeEventHandler" msprop:Generator_TableClassName="PermissionsDataTable" msprop:Generator_RowChangedName="PermissionsRowChanged" msprop:Generator_RowClassName="PermissionsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TypeID" msprop:Generator_ColumnVarNameInTable="columnTypeID" msprop:Generator_ColumnPropNameInRow="TypeID" msprop:Generator_ColumnPropNameInTable="TypeIDColumn" msprop:Generator_UserColumnName="TypeID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EditFreqs" msprop:Generator_ColumnVarNameInTable="columnEditFreqs" msprop:Generator_ColumnPropNameInRow="EditFreqs" msprop:Generator_ColumnPropNameInTable="EditFreqsColumn" msprop:Generator_UserColumnName="EditFreqs" type="xs:boolean" />
+              <xs:element name="DeleteFreqs" msprop:Generator_ColumnVarNameInTable="columnDeleteFreqs" msprop:Generator_ColumnPropNameInRow="DeleteFreqs" msprop:Generator_ColumnPropNameInTable="DeleteFreqsColumn" msprop:Generator_UserColumnName="DeleteFreqs" type="xs:boolean" />
+              <xs:element name="EditLicence" msprop:Generator_ColumnVarNameInTable="columnEditLicence" msprop:Generator_ColumnPropNameInRow="EditLicence" msprop:Generator_ColumnPropNameInTable="EditLicenceColumn" msprop:Generator_UserColumnName="EditLicence" type="xs:boolean" />
+              <xs:element name="DeleteLicence" msprop:Generator_ColumnVarNameInTable="columnDeleteLicence" msprop:Generator_ColumnPropNameInRow="DeleteLicence" msprop:Generator_ColumnPropNameInTable="DeleteLicenceColumn" msprop:Generator_UserColumnName="DeleteLicence" type="xs:boolean" />
+              <xs:element name="EditComp" msprop:Generator_ColumnVarNameInTable="columnEditComp" msprop:Generator_ColumnPropNameInRow="EditComp" msprop:Generator_ColumnPropNameInTable="EditCompColumn" msprop:Generator_UserColumnName="EditComp" type="xs:boolean" />
+              <xs:element name="DelComp" msprop:Generator_ColumnVarNameInTable="columnDelComp" msprop:Generator_ColumnPropNameInRow="DelComp" msprop:Generator_ColumnPropNameInTable="DelCompColumn" msprop:Generator_UserColumnName="DelComp" type="xs:boolean" />
+              <xs:element name="EditFreqLic" msprop:Generator_ColumnVarNameInTable="columnEditFreqLic" msprop:Generator_ColumnPropNameInRow="EditFreqLic" msprop:Generator_ColumnPropNameInTable="EditFreqLicColumn" msprop:Generator_UserColumnName="EditFreqLic" type="xs:boolean" />
+              <xs:element name="EditFreqComp" msprop:Generator_ColumnVarNameInTable="columnEditFreqComp" msprop:Generator_ColumnPropNameInRow="EditFreqComp" msprop:Generator_ColumnPropNameInTable="EditFreqCompColumn" msprop:Generator_UserColumnName="EditFreqComp" type="xs:boolean" />
+              <xs:element name="ReestritCheck" msprop:Generator_ColumnVarNameInTable="columnReestritCheck" msprop:Generator_ColumnPropNameInRow="ReestritCheck" msprop:Generator_ColumnPropNameInTable="ReestritCheckColumn" msprop:Generator_UserColumnName="ReestritCheck" type="xs:boolean" />
+              <xs:element name="AddFreq" msprop:Generator_ColumnVarNameInTable="columnAddFreq" msprop:Generator_ColumnPropNameInRow="AddFreq" msprop:Generator_ColumnPropNameInTable="AddFreqColumn" msprop:Generator_UserColumnName="AddFreq" type="xs:boolean" />
+              <xs:element name="Confidential" msprop:Generator_ColumnVarNameInTable="columnConfidential" msprop:Generator_ColumnPropNameInRow="Confidential" msprop:Generator_ColumnPropNameInTable="ConfidentialColumn" msprop:Generator_UserColumnName="Confidential" type="xs:boolean" />
+              <xs:element name="FreqGraph" msprop:Generator_ColumnVarNameInTable="columnFreqGraph" msprop:Generator_ColumnPropNameInRow="FreqGraph" msprop:Generator_ColumnPropNameInTable="FreqGraphColumn" msprop:Generator_UserColumnName="FreqGraph" type="xs:boolean" />
+              <xs:element name="Nebartva" msprop:Generator_ColumnVarNameInTable="columnNebartva" msprop:Generator_ColumnPropNameInRow="Nebartva" msprop:Generator_ColumnPropNameInTable="NebartvaColumn" msprop:Generator_UserColumnName="Nebartva" type="xs:boolean" />
+              <xs:element name="AdminStationsAdd" msprop:Generator_ColumnVarNameInTable="columnAdminStationsAdd" msprop:Generator_ColumnPropNameInRow="AdminStationsAdd" msprop:Generator_ColumnPropNameInTable="AdminStationsAddColumn" msprop:Generator_UserColumnName="AdminStationsAdd" type="xs:boolean" />
+              <xs:element name="AdminStationsEdit" msprop:Generator_ColumnVarNameInTable="columnAdminStationsEdit" msprop:Generator_ColumnPropNameInRow="AdminStationsEdit" msprop:Generator_ColumnPropNameInTable="AdminStationsEditColumn" msprop:Generator_UserColumnName="AdminStationsEdit" type="xs:boolean" />
+              <xs:element name="AdminStationsDelete" msprop:Generator_ColumnVarNameInTable="columnAdminStationsDelete" msprop:Generator_ColumnPropNameInRow="AdminStationsDelete" msprop:Generator_ColumnPropNameInTable="AdminStationsDeleteColumn" msprop:Generator_UserColumnName="AdminStationsDelete" type="xs:boolean" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Users" msprop:Generator_UserTableName="Users" msprop:Generator_RowEvArgName="UsersRowChangeEvent" msprop:Generator_TableVarName="tableUsers" msprop:Generator_TablePropName="Users" msprop:Generator_RowDeletingName="UsersRowDeleting" msprop:Generator_RowChangingName="UsersRowChanging" msprop:Generator_RowDeletedName="UsersRowDeleted" msprop:Generator_RowEvHandlerName="UsersRowChangeEventHandler" msprop:Generator_TableClassName="UsersDataTable" msprop:Generator_RowChangedName="UsersRowChanged" msprop:Generator_RowClassName="UsersRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="UserName" msprop:Generator_ColumnVarNameInTable="columnUserName" msprop:Generator_ColumnPropNameInRow="UserName" msprop:Generator_ColumnPropNameInTable="UserNameColumn" msprop:Generator_UserColumnName="UserName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TypeID" msprop:Generator_ColumnVarNameInTable="columnTypeID" msprop:Generator_ColumnPropNameInRow="TypeID" msprop:Generator_ColumnPropNameInTable="TypeIDColumn" msprop:Generator_UserColumnName="TypeID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Password" msprop:Generator_ColumnVarNameInTable="columnPassword" msprop:Generator_ColumnPropNameInRow="Password" msprop:Generator_ColumnPropNameInTable="PasswordColumn" msprop:Generator_UserColumnName="Password">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Permissions" />
+      <xs:field xpath="mstns:TypeID" />
+    </xs:unique>
+    <xs:unique name="Users_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Users" />
+      <xs:field xpath="mstns:UserName" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="FK_Users_Permissions" msdata:parent="Permissions" msdata:child="Users" msdata:parentkey="TypeID" msdata:childkey="TypeID" msprop:Generator_UserChildTable="Users" msprop:Generator_ChildPropName="GetUsersRows" msprop:Generator_UserRelationName="FK_Users_Permissions" msprop:Generator_RelationVarName="relationFK_Users_Permissions" msprop:Generator_UserParentTable="Permissions" msprop:Generator_ParentPropName="PermissionsRow" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

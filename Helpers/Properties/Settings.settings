@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Helpers.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="decisionURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.gncc.ge/ge/legal-acts/solutions/</Value>
+    </Setting>
+    <Setting Name="decisionURL_end" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">%3D%3D/0/</Value>
+    </Setting>
+    <Setting Name="searchLinkColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FFff00ff</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

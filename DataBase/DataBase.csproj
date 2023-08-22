@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{678A7469-46AC-452A-AEBD-3F01FA11CEFE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataBase</RootNamespace>
+    <AssemblyName>DataBase</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CHAllocationsDataSet.Designer.cs">
+      <DependentUpon>CHAllocationsDataSet.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="docmaster.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>docmaster.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GNCCDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GNCCDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OfficeDataSet.cs">
+      <DependentUpon>OfficeDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="OfficeDataSet.Designer.cs">
+      <DependentUpon>OfficeDataSet.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="PrivilegiesDataSet.Designer.cs">
+      <DependentUpon>PrivilegiesDataSet.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="pubsDataSet.cs">
+      <DependentUpon>pubsDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="pubsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pubsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SecureDS.Designer.cs">
+      <DependentUpon>SecureDS.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="XTerraDataSet.Designer.cs">
+      <DependentUpon>XTerraDataSet.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="CHAllocationsDataSet.xsc">
+      <DependentUpon>CHAllocationsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CHAllocationsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CHAllocationsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CHAllocationsDataSet.xss">
+      <DependentUpon>CHAllocationsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="docmaster.xsc">
+      <DependentUpon>docmaster.xsd</DependentUpon>
+    </None>
+    <None Include="docmaster.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>docmaster.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="docmaster.xss">
+      <DependentUpon>docmaster.xsd</DependentUpon>
+    </None>
+    <None Include="GNCCDBDataSet.xsc">
+      <DependentUpon>GNCCDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GNCCDBDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GNCCDBDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GNCCDBDataSet.xss">
+      <DependentUpon>GNCCDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OfficeDataSet.xsc">
+      <DependentUpon>OfficeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OfficeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OfficeDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OfficeDataSet.xss">
+      <DependentUpon>OfficeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PrivilegiesDataSet.xsc">
+      <DependentUpon>PrivilegiesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PrivilegiesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PrivilegiesDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PrivilegiesDataSet.xss">
+      <DependentUpon>PrivilegiesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="pubsDataSet.xsc">
+      <DependentUpon>pubsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pubsDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pubsDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="pubsDataSet.xss">
+      <DependentUpon>pubsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SecureDS.xsc">
+      <DependentUpon>SecureDS.xsd</DependentUpon>
+    </None>
+    <None Include="SecureDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SecureDS.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SecureDS.xss">
+      <DependentUpon>SecureDS.xsd</DependentUpon>
+    </None>
+    <None Include="XTerraDataSet.xsc">
+      <DependentUpon>XTerraDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="XTerraDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>XTerraDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XTerraDataSet.xss">
+      <DependentUpon>XTerraDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

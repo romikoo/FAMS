@@ -1,0 +1,104 @@
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\bin\Debug\Demo.WindowsForms.exe.manifest
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\bin\Debug\Demo.WindowsForms.application
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\bin\Debug\Demo.WindowsForms.exe
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\bin\Debug\Demo.WindowsForms.pdb
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\bin\Debug\GMap.NET.Core.dll
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\bin\Debug\GMap.NET.Core.pdb
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\bin\Debug\GMap.NET.WindowsForms.pdb
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\BSE.Windows.Forms.Panel.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\Demo.WindowsForms.MainForm.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\Demo.WindowsForms.Forms.Message.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\Demo.WindowsForms.StaticImage.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\Demo.WindowsForms.Properties.Resources.resources
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\Demo.WindowsForms.csproj.GenerateResource.Cache
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\Demo.WindowsForms.TrustInfo.xml
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\Demo.WindowsForms.exe.manifest
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\Demo.WindowsForms.application
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\Demo.WindowsForms.exe
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\obj\Debug\Demo.WindowsForms.pdb
+C:\Users\roman kurdadze\Downloads\greatmaps-2c56ffb53626\greatmaps_2c56ffb53626\Demo.WindowsForms\bin\Debug\System.Data.SQLite.DLL
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\Demo.WindowsForms.exe
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\Demo.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\ResolveAssemblyReference.cache
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\BSE.Windows.Forms.Panel.resources
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\Demo.WindowsForms.MainForm.resources
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\Demo.WindowsForms.Properties.Resources.resources
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\Demo.WindowsForms.csproj.GenerateResource.Cache
+D:\!_C#\Demo.WindowsForms 1\bin\Debug\Demo.WindowsForms.exe.manifest
+D:\!_C#\Demo.WindowsForms 1\bin\Debug\Demo.WindowsForms.application
+D:\!_C#\Demo.WindowsForms 1\bin\Debug\Demo.WindowsForms.exe
+D:\!_C#\Demo.WindowsForms 1\bin\Debug\Demo.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 1\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\Demo.WindowsForms 1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\!_C#\Demo.WindowsForms 1\bin\Debug\System.Data.SQLite.DLL
+D:\!_C#\Demo.WindowsForms 1\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\Demo.WindowsForms 1\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\Demo.WindowsForms.TrustInfo.xml
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\Demo.WindowsForms.exe.manifest
+D:\!_C#\Demo.WindowsForms 1\obj\Debug\Demo.WindowsForms.application
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\Demo.WindowsForms.exe
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\Demo.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 2\bin\Debug\Demo.WindowsForms.exe.manifest
+D:\!_C#\Demo.WindowsForms 2\bin\Debug\Demo.WindowsForms.application
+D:\!_C#\Demo.WindowsForms 2\bin\Debug\Demo.WindowsForms.exe
+D:\!_C#\Demo.WindowsForms 2\bin\Debug\Demo.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 2\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\Demo.WindowsForms 2\bin\Debug\GMap.NET.WindowsForms.dll
+D:\!_C#\Demo.WindowsForms 2\bin\Debug\System.Data.SQLite.DLL
+D:\!_C#\Demo.WindowsForms 2\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\Demo.WindowsForms 2\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\ResolveAssemblyReference.cache
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\BSE.Windows.Forms.Panel.resources
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\Demo.WindowsForms.MainForm.resources
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\Demo.WindowsForms.Properties.Resources.resources
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\Demo.WindowsForms.csproj.GenerateResource.Cache
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\Demo.WindowsForms.TrustInfo.xml
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\Demo.WindowsForms.exe.manifest
+D:\!_C#\Demo.WindowsForms 2\obj\Debug\Demo.WindowsForms.application
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\Demo.WindowsForms.exe
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\Demo.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 1 - Copy\bin\Debug\Demo.WindowsForms.exe.manifest
+D:\!_C#\Demo.WindowsForms 1 - Copy\bin\Debug\Demo.WindowsForms.application
+D:\!_C#\Demo.WindowsForms 1 - Copy\bin\Debug\Demo.WindowsForms.exe
+D:\!_C#\Demo.WindowsForms 1 - Copy\bin\Debug\Demo.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 1 - Copy\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\Demo.WindowsForms 1 - Copy\bin\Debug\GMap.NET.WindowsForms.dll
+D:\!_C#\Demo.WindowsForms 1 - Copy\bin\Debug\System.Data.SQLite.DLL
+D:\!_C#\Demo.WindowsForms 1 - Copy\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\Demo.WindowsForms 1 - Copy\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\ResolveAssemblyReference.cache
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\BSE.Windows.Forms.Panel.resources
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\Demo.WindowsForms.MainForm.resources
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\Demo.WindowsForms.Properties.Resources.resources
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\Demo.WindowsForms.csproj.GenerateResource.Cache
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\Demo.WindowsForms.TrustInfo.xml
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\Demo.WindowsForms.exe.manifest
+D:\!_C#\Demo.WindowsForms 1 - Copy\obj\Debug\Demo.WindowsForms.application
+D:\!_C#\Demo.WindowsForms 2 - Copy\obj\Debug\Demo.WindowsForms.exe
+D:\!_C#\Demo.WindowsForms 2 - Copy\obj\Debug\Demo.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 2 - Copy\obj\Debug\ResolveAssemblyReference.cache
+D:\!_C#\Demo.WindowsForms 2 - Copy\obj\Debug\Demo.WindowsForms.MainForm.resources
+D:\!_C#\Demo.WindowsForms 2 - Copy\obj\Debug\Demo.WindowsForms.csproj.GenerateResource.Cache
+D:\!_C#\Demo.WindowsForms 2 - Copy\obj\Debug\Demo.WindowsForms.Properties.Resources.resources
+D:\!_C#\Demo.WindowsForms 2 - Copy\bin\Debug\Demo.WindowsForms.exe.manifest
+D:\!_C#\Demo.WindowsForms 2 - Copy\bin\Debug\Demo.WindowsForms.application
+D:\!_C#\Demo.WindowsForms 2 - Copy\bin\Debug\Demo.WindowsForms.exe
+D:\!_C#\Demo.WindowsForms 2 - Copy\bin\Debug\Demo.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 2 - Copy\bin\Debug\GMap.NET.Core.dll
+D:\!_C#\Demo.WindowsForms 2 - Copy\bin\Debug\GMap.NET.WindowsForms.dll
+D:\!_C#\Demo.WindowsForms 2 - Copy\bin\Debug\System.Data.SQLite.DLL
+D:\!_C#\Demo.WindowsForms 2 - Copy\bin\Debug\GMap.NET.Core.pdb
+D:\!_C#\Demo.WindowsForms 2 - Copy\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\!_C#\Demo.WindowsForms 2 - Copy\obj\Debug\Demo.WindowsForms.TrustInfo.xml
+D:\!_C#\Demo.WindowsForms 2 - Copy\obj\Debug\Demo.WindowsForms.exe.manifest
+D:\!_C#\Demo.WindowsForms 2 - Copy\obj\Debug\Demo.WindowsForms.application
